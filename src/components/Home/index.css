@@ -1,0 +1,212 @@
+.iljh {
+  height: 50px;
+  width: 160px;
+  background-color: #ff3147;
+  border-width: 0px;
+  border-radius: 2px;
+  padding: 2px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.wwd-description {
+  width: 520px;
+  color: #000000;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+.digital-marketing-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #000000;
+  font-size: 50px;
+  width: 600px;
+}
+.award-winning-text {
+  color: #ff3147;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 60px;
+  padding-right: 400px;
+}
+.slideContainer {
+  background-color: #fafafa;
+  width: 100vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.home-section-description {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  color: #000000;
+  font-weight: normal;
+  width: 520px;
+}
+.digital-marketing-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #000000;
+  font-size: 50px;
+  width: 600px;
+}
+.OP-card {
+  background-color: #f6f6f6;
+  width: 23vw;
+  height: 23vh;
+  cursor: pointer;
+  margin-left: 8px;
+}
+.OP-card1 {
+  background-color: #ff3147;
+  width: 23vw;
+  height: 23vh;
+  cursor: pointer;
+  margin-left: 8px;
+}
+.EG-section-bg-container {
+  background-color: #fafafa;
+  width: 100vw;
+}
+.EG-section-card {
+  background-color: #ffffff;
+  border-radius: 6px;
+  width: 180px;
+  margin-left: 35px;
+  cursor: default;
+}
+.number-style {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 45px;
+  font-weight: 500;
+}
+.text-style {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 15px;
+  font-weight: 500;
+}
+.OP-card {
+  background-color: #f6f6f6;
+  width: 25vw;
+  height: 25vh;
+  cursor: pointer;
+}
+.OP-img-style {
+  height: 75vh;
+  width: 50vw;
+}
+.OP-card-heading1 {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.OP-card-description1 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.OP-card-heading {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  color: #000000;
+  font-weight: 500;
+}
+.OP-card-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #000000;
+  font-weight: 500;
+}
+.image1 {
+  height: 70vh;
+  padding-top: 20px;
+}
+.award-winning-text {
+  color: #ff3147;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+}
+.digital-marketing-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #000000;
+  font-size: 50px;
+  width: 600px;
+}
+.CF-section-description {
+  background-image: url(https://res.cloudinary.com/detqp9dxl/image/upload/v1717323118/Quotemarks-left_ldblxl.png);
+  background-repeat: no-repeat;
+  height: 45px;
+  padding-top: 19px;
+  padding-left: 15px;
+  width: 90vh;
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+}
+.Footer-section-bg-container {
+    background-image: url(https://res.cloudinary.com/detqp9dxl/image/upload/v1717326199/NoPath_-_Copy_kwevwj.png);
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+    background-color: #ff3147;
+}
+.footer-img {
+    height: 40px;
+}
+.text-style-add {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #808080;
+  font-weight: 500;
+}
+
+.text-style-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ff3147;
+  font-weight: 600;
+}
+.digital-marketing-heading1 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #000000;
+  font-size: 50px;
+  width: 600px;
+  margin-left: 200px;
+  text-align: center;
+}
+.WCU-section-card1 {
+  width: 260px;
+  border-radius: 8px;
+  cursor: default;
+}
+.card-style {
+  height: 58px;
+  width: 58px;
+}
+.card-heading {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+}
+.card-description {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 13px;
+  font-weight: 500;
+}
